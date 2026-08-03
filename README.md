@@ -164,19 +164,6 @@ For every part file, the application performs the following operations automatic
 
 ---
 
-## 📸 Sample Output
-
-*(Add screenshots of generated PDFs here)*
-
-```
-images/
-    sample1.png
-    sample2.png
-    sample3.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Shubham Gagare**
