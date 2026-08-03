@@ -1,10 +1,5 @@
 # NXOpen 2D Drawing Generator
 
-<p align="center">
-  <img src="images/ui.png" width="700">
-</p>
-
-<p align="center">
   <strong>Automated Batch 2D Drawing & PDF Generation using Siemens NXOpen API</strong>
 </p>
 
