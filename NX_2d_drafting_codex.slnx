@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="64Bit" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="NX_2d_drafting_codex/NX_2d_drafting_codex.csproj" Id="33d61083-8782-46c7-b368-477e19db7b5c">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
